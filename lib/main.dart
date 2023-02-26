@@ -19,12 +19,12 @@ class MyHomePage extends StatelessWidget {
         ),
         leading: IconButton(
           onPressed: () {},
-          icon: Icon(Icons.menu),
+          icon: const Icon(Icons.menu),
         ),
         actions: [
           IconButton(
             onPressed: () {},
-            icon: Icon(Icons.add),
+            icon: const Icon(Icons.add),
             iconSize: 40,
           )
         ],
